@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  max-width: 100%;
+  height: 100%;
+}
+.nav-top > a{
+  text-decoration: none;
+  font-size: 12pt;
+  color: ghostwhite;
+}
+.nav-top > a:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+#post-item > .item{
+  max-width: 100%;
+  height: auto;
+  overflow: hidden;
+  box-shadow: 1px 1px 5px #050d12c9;
+}
+#post-item > .item .cover{
+  max-width: 100%;
+  height: auto;
+  position: relative;
+  overflow: hidden;  
+}
+#post-item > .item .cover img{
+  width: inherit;
+  height: inherit;
+}
+#post-item > .item .cover .top-badge{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+#item-title{
+  font-size: 15pt;
+}
