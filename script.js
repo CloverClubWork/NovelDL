@@ -1,5 +1,15 @@
 $(document).ready(function(){
   
+  $('#closeModal').click(function(){
+    $('#myModal').fadeOut();
+    const hideModal = true;
+    localStorage.setItem('modal', hideModal);
+  })
+  let storage = localStorage.getItem('modal');
+  if(!storage){
+    $('#myModal').fadeIn(500);
+  }
+  
   const urlParam = "data.json";
   
   fetch(urlParam)
@@ -42,5 +52,6 @@ $(document).ready(function(){
   $('#post-item').on('click', '#downloadBtn', function(){
     window.location.href = $(this).attr('data-src');
   });
+  
   
 });

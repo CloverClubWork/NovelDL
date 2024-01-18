@@ -40,3 +40,10 @@ body{
 #item-title{
   font-size: 15pt;
 }
+#footer-media > li i{
+  font-size: 20pt;
+  margin: 0 8px 0 8px;
+}
+#footer-media > li:first-child i{
+  margin-left: 0;
+}
