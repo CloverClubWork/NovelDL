@@ -37,6 +37,9 @@ body{
   top: 0;
   left: 0;
 }
+#post-item .item:nth-child(n+11){
+  display: none;
+}
 #item-title{
   font-size: 15pt;
 }
