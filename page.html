@@ -19,6 +19,21 @@
     .header-page a:active {
       text-color: #4063ff;
     }
+    #details-post{
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      row-gap: 7px;
+      column-gap: 7px;
+    }
+    #details-post li{
+      border: 1px solid floralwhite;
+      padding: 8px 10px;
+      font-size: 12pt;
+      color: floralwhite;
+      border-radius: 5px
+    }
   </style>
 </head>
 
@@ -49,9 +64,9 @@
       </div>
 
       <div class="container p-3 pt-0 pb-0">
-        <ul class="list-group list-group-horizontal bg-dark">
-          <li class="list-group-item bg-dark text-white" id="status"></li>
-          <li class="list-group-item bg-dark text-white" id="type"></li>
+        <ul id="details-post">
+          <li id="status"></li>
+          <li id="type"></li>
         </ul>
         <ul class="mt-1 list-group list-group-horizontal bg-dark" id="genres"></ul>
 
