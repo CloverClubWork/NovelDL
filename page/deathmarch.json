@@ -1,8 +1,116 @@
 [
   {
     "title":"Volume 1",
-    "cover":"",
+    "cover":"https://static.wikia.nocookie.net/deathmarch/images/4/47/DM1-1%28Eng%29.png/revision/latest?cb=20191108124451",
     "epub":"https://drive.google.com/file/d/1JOoyLq_TIIDxrhIwRfg6q6-wMl0O49AD/view?usp=drivesdk",
     "pdf":""
+  },
+  {
+    "title": "Volume 2",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/e/ee/DM_V02_Cover_EN.jpg/revision/latest?cb=20180414160944",
+    "epub": "https://drive.google.com/file/d/1L_UOrGa0odMQ-zYAAge5rpNMe4lgX2V9/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 3",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/f/f4/DM_V03_Cover_EN.jpg/revision/latest?cb=20180414161010",
+    "epub": "https://drive.google.com/file/d/1LbsssjON0UErDhbrhURG2cN6h_ys-qWV/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 4",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/c/cc/DM_V04_Cover_EN.jpg/revision/latest?cb=20180414161033",
+    "epub": "https://drive.google.com/file/d/1LcTajsUWyTPbgBS9rryJ5z_JRBpU8u20/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 5",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/b/b9/DM_V05_Cover_EN.jpg/revision/latest?cb=20181007144251",
+    "epub": "https://drive.google.com/file/d/1LcWGEHtUmmFpDHf0_Qrmw40H-RMpDJO6/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 6",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/2/25/DM_V06_Cover_EN.jpg/revision/latest?cb=20181007143501",
+    "epub": "https://drive.google.com/file/d/1MY6tRtkfYi4CaXXeYoeDPLZySYyUMsf_/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 7",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/1/16/DM_V07_Cover_EN.jpg/revision/latest?cb=20190819212807",
+    "epub": "https://drive.google.com/file/d/1M_-qRSUDbcwQzgzuTwOU0vaV7NruGsxm/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 8",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/3/32/DM_V08_Cover_EN.jpg/revision/latest?cb=20190819212808",
+    "epub": "https://drive.google.com/file/d/1MawzwvivL_sTI0EcP5Sf3O2pP5SrvBbE/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 9",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/5/51/DM_V09_Cover_EN.png/revision/latest?cb=20191228021857",
+    "epub": "https://drive.google.com/file/d/1Mlb_eRVYuqqP3r8Q1i8Oz1aL_GZNdsli/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 10",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/c/ca/DM_V10_Cover_EN.png/revision/latest?cb=20200610185725",
+    "epub": "https://drive.google.com/file/d/1JcBS803b80OEXWd-pQCJNZ8E8WbyDZeY/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 11",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/4/4d/DM_V11_Cover_EN.png/revision/latest?cb=20200526131358",
+    "epub": "https://drive.google.com/file/d/1JefiIFnPjbxQxeTSEcR4qyawMdiMRpwM/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 12",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/6/68/DM12-01_EN.png/revision/latest?cb=20201006171720",
+    "epub": "https://drive.google.com/file/d/1JeuQHLRum7MMrIn_78AzLv9KveNT6puq/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 13",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/f/fc/DM13-01_EN.png/revision/latest?cb=20210122063000",
+    "epub": "https://drive.google.com/file/d/1Kz90DtVVBlFVple1H3JbulzeJ-0NHPoq/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 14",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/c/c8/DM14-00_EN.png/revision/latest?cb=20210430151155",
+    "epub": "https://drive.google.com/file/d/1L2j6vbX6sbN54FY34FpL17iL7zPBtn35/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 15",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/c/c1/DM15-00_EN.png/revision/latest?cb=20210901162055",
+    "epub": "https://drive.google.com/file/d/1L3gQA_LhyJF0F1EgUN5Kfu-x2ZajLjYG/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 16",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/8/88/DMv16-00_EN.png/revision/latest?cb=20220126053646",
+    "epub": "https://drive.google.com/file/d/1L7GDcEOyOHhqa0mghvDOPher8NuzCHpy/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 17",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/8/8c/DMv17-00_EN.png/revision/latest?cb=20220503151458",
+    "epub": "https://drive.google.com/file/d/1L8kOLJlO0AyB9QsiaUzK7m80knsz9m5v/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 18",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/3/3d/DMv18-00_EN.png/revision/latest/scale-to-width/360?cb=20221116132201",
+    "epub": "https://drive.google.com/file/d/1LC--6x_YZ8D6SOByn5Wmv-MEu7Urw5QX/view?usp=drivesdk",
+    "pdf": ""
+  },
+  {
+    "title": "Volume 19",
+    "cover": "https://static.wikia.nocookie.net/deathmarch/images/2/25/DMv19-00_EN.png/revision/latest?cb=20230711162436",
+    "epub": "https://drive.google.com/file/d/1LQNishzs-9qX41kJisjmXaSOp9ySjs_e/view?usp=drivesdk",
+    "pdf": ""
   }
 ]
