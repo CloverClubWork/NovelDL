@@ -1,5 +1,21 @@
 [
   {
+    "id": 138202,
+    "title": "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time",
+    "cover": "https://images.yenpress.com/imgs/9781975369460.jpg?w=408&h=612&type=books&s=a68c5d557020170442fbc285bab4be18",
+    "status": "Releasing",
+    "publisher": "Yen Press",
+    "page": "page/i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time.json"
+  },
+  {
+    "id": 152588,
+    "title": "Haibara's Teenage New Game+",
+    "cover":"https://noveldownloader.netlify.app/covers/haibara-s-teenage-new-game-volume-5.jpg",
+    "status":"Releasing",
+    "publisher":"J-Novel Club",
+    "page":"page/haibara-s-teenage-new-game.json"
+  },
+  {
     "id": 133352,
     "title":"Gimai Seikatsu",
     "cover":"https://static.wikia.nocookie.net/gimai-seikatsu/images/3/31/V9-00.jpg/revision/latest?cb=20231024102023",
