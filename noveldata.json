@@ -1,5 +1,12 @@
 [
-  
+  {
+    "id": 133352,
+    "title":"Gimai Seikatsu",
+    "cover":"https://static.wikia.nocookie.net/gimai-seikatsu/images/3/31/V9-00.jpg/revision/latest?cb=20231024102023",
+    "status":"Releasing",
+    "publisher":"Yen Press",
+    "page":"page/gimai-seikatsu.json"
+  },
   {
     "id": 104039,
     "title": "86: Eighty Six",
