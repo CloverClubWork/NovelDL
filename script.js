@@ -10,7 +10,7 @@ $(document).ready(function(){
     $('#myModal').fadeIn(500);
   }
   
-  const urlParam = "data.json";
+  const urlParam = "noveldata.json";
   
   fetch(urlParam)
   .then(response => {
@@ -23,7 +23,9 @@ $(document).ready(function(){
     
     const results = data;
     results.forEach(items => {
-      
+      const pageParam = items.page;
+      const pageParam2 = pageParam.replace('page/','');
+      const page = pageParam2.replace('.json','');
       const item = `
         <div class='col-md p-3 bg-dark border border-0 rounded-1 item mt-2 mb-2'>
           <div class='container p-0 m-0 rounded-1 cover'>
@@ -35,7 +37,7 @@ $(document).ready(function(){
           </div>
           <div class='container-fluid p-0'>
             <p id='item-title' class='text-light mt-2'>`+items.title+`</p>
-            <button id='downloadBtn' class='btn btn-success align-self-end mt-1' data-src='page.html?id=`+items.id+`'>Download Now</button>
+            <button id='downloadBtn' class='btn btn-success align-self-end mt-1' data-src='page.html?id=`+items.id+`&page=`+page+`'>Download Now</button>
           </div>
         </div>
       `

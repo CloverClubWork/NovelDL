@@ -2,7 +2,7 @@
   {
     "id": 74697,
     "title": "Re:Zero Starting Life In Another World",
-    "cover": "https://static.wikia.nocookie.net/rezero/images/9/99/Re_Zero_Volume_23_Cover.png/revision/latest?cb=20211218184623",
+    "cover": "covers/Re_Zero_Volume_23_Cover.png",
     "status": "Releasing",
     "publisher": "Yen Press",
     "page": "page/rezero.json"
@@ -10,7 +10,7 @@
   {
     "id": 138744,
     "title": "Magical Revolution of Reincarnated Princess and the Genius Young Lady",
-    "cover": "https://static.wikia.nocookie.net/tenten-kakumei/images/5/5b/LNVol5JPN.png/revision/latest?cb=20221211134833",
+    "cover": "covers/LNVol5JPN.png",
     "status": "Releasing",
     "publisher": "Yen Press",
     "page": "page/Tensei_Oujo_to_Tensai_Reijou_no_Mahou_Kakumei.json"
@@ -18,7 +18,7 @@
   {
     "id": 88467,
     "title": "In Another World With My Smartphone",
-    "cover": "https://static.wikia.nocookie.net/isekai-smartphone/images/1/1c/IsesumaLNV28.jpg/revision/latest?cb=20230425201247",
+    "cover": "covers/IsesumaLNV28.jpg",
     "status": "Releasing",
     "publisher": "J-Novel Club",
     "page": "page/isekai-smartphone.json"
@@ -42,7 +42,7 @@
   {
     "id": 133352,
     "title":"Gimai Seikatsu",
-    "cover":"https://static.wikia.nocookie.net/gimai-seikatsu/images/3/31/V9-00.jpg/revision/latest?cb=20231024102023",
+    "cover":"covers/Gimai_SeikatsuV9-00.jpg",
     "status":"Releasing",
     "publisher":"Yen Press",
     "page":"page/gimai-seikatsu.json"
@@ -50,7 +50,7 @@
   {
     "id": 104039,
     "title": "86: Eighty Six",
-    "cover": "https://static.wikia.nocookie.net/86-eighty-six/images/8/85/V12_Cover_EN.jpg/revision/latest?cb=20230807235247",
+    "cover": "covers/86_V12_Cover_EN.jpg",
     "status": "Releasing",
     "publisher": "Yen Press",
     "page": "page/eighty-six.json"
@@ -58,7 +58,7 @@
   {
     "id": 106755,
     "title": "Our Last Crusade To the Rise Of A New World",
-    "cover": "https://static.wikia.nocookie.net/kimisen/images/d/d4/Volume12EN.jpg/revision/latest?cb=20231207083047",
+    "cover": "covers/Our Last Crusade or the Rise of a New World Volume 12.jpg",
     "status": "Realising",
     "publisher": "Yen Press",
     "page": "page/Our-Last-Crusade-To-the-Rise-Of-A-New-World.json"
@@ -74,7 +74,7 @@
   {
     "id": 102330,
     "title": "Wandering Witch: The Journey of Elaina",
-    "cover": "https://static.wikia.nocookie.net/majo-no-tabitabi/images/a/ae/Light_Novel_Volume_12_EN.jpg/revision/latest?cb=20231015033102",
+    "cover": "covers/Majo_No_Tabitabi_Volume_12_EN.jpg  ",
     "status": "Realising",
     "publisher": "Yen Press",
     "page": "page/majo-no-tabitabi.json"
@@ -82,7 +82,7 @@
   {
     "id": 83019,
     "title": "Death March to the Parallel World Rhapsody",
-    "cover": "https://static.wikia.nocookie.net/deathmarch/images/2/25/DMv19-00_EN.png/revision/latest?cb=20230711162436",
+    "cover": "covers/DMv19-00_EN.png",
     "status": "Realising",
     "publisher": "Yen Press",
     "page": "page/deathmarch.json"

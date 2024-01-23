@@ -6,7 +6,11 @@ $(document).ready(function() {
     return urlParams.get(key);
   }
   let novelId = getQueryParam("id");
-  fetch('data.json')
+  let pageParam = getQueryParam("page");
+  const pageUrl = "./page/" + pageParam + ".json";
+  console.log(pageUrl)
+  
+  fetch(pageUrl)
     .then(response => {
       if (!response.ok) {
         throw new Error('Failed to load data');
@@ -14,16 +18,10 @@ $(document).ready(function() {
       return response.json();
     })
     .then(data => {
-      let novel = data.find(item => item.id === novelId);
-
-      if (novel) {
-
-        $('#item-top-link').text(novel.title);
-        $('#title-page').text(novel.title);
-        $('#cover-page').attr('src', novel.cover);
-        $('#downloadBtn').attr('data-src', novel.link);
-      }
-
+      
+        $('#item-top-link').text(data.title);
+        $('#title-page').text(data.title);
+      
     })
     .catch(error => {
       console.log(error)
