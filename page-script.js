@@ -6,30 +6,10 @@ $(document).ready(function() {
     return urlParams.get(key);
   }
   let novelId = getQueryParam("id");
-  let pageParam = getQueryParam("page");
-  const pageUrl = "./page/" + pageParam + ".json";
-  console.log(pageUrl)
   
-  fetch(pageUrl)
-    .then(response => {
-      if (!response.ok) {
-        throw new Error('Failed to load data');
-      }
-      return response.json();
-    })
-    .then(data => {
-      
-        $('#item-top-link').text(data.title);
-        $('#title-page').text(data.title);
-      
-    })
-    .catch(error => {
-      console.log(error)
-    });
+  const urlInfo = "https://api.jikan.moe/v4/manga/" + novelId;
 
-  const urlParams = "https://api.jikan.moe/v4/manga/" + novelId;
-
-  fetch(urlParams)
+  fetch(urlInfo)
     .then(response => {
       if (!response.ok) {
         throw new Error('Failed to load data');
@@ -43,6 +23,9 @@ $(document).ready(function() {
       $('#status').text(results.status);
       $('#type').text(results.type);
       $('#synopsis').html(results.synopsis);
+      $('#item-top-link').text(results.title_english);
+      $('#title-page').text(results.title_english);
+      $('#cover-page').attr('src', results.images.jpg.large_image_url);
 
       const genres = results.genres;
       genres.forEach(genre => {
