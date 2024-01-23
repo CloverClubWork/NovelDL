@@ -1,5 +1,21 @@
 [
   {
+    "id": 74697,
+    "title": "Re:Zero Starting Life In Another World",
+    "cover": "https://static.wikia.nocookie.net/rezero/images/9/99/Re_Zero_Volume_23_Cover.png/revision/latest?cb=20211218184623",
+    "status": "Releasing",
+    "publisher": "Yen Press",
+    "page": "page/rezero.json"
+  },
+  {
+    "id": 138744,
+    "title": "Magical Revolution of Reincarnated Princess and the Genius Young Lady",
+    "cover": "https://static.wikia.nocookie.net/tenten-kakumei/images/5/5b/LNVol5JPN.png/revision/latest?cb=20221211134833",
+    "status": "Releasing",
+    "publisher": "Yen Press",
+    "page": "page/Tensei_Oujo_to_Tensai_Reijou_no_Mahou_Kakumei.json"
+  },
+  {
     "id": 88467,
     "title": "In Another World With My Smartphone",
     "cover": "https://static.wikia.nocookie.net/isekai-smartphone/images/1/1c/IsesumaLNV28.jpg/revision/latest?cb=20230425201247",
