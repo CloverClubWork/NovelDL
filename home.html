@@ -7,24 +7,10 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
   <script src="https://kit.fontawesome.com/8d333124e2.js" crossorigin="anonymous"></script>
-  <style type="text/css" media="all">
-    .cover-page{
-      position: relative;
-    }
-    #homebtn{
-      position: absolute;
-      bottom: 0;
-      transform: scale(2.0);
-    }
-  </style>
 </head>
 <body class="bg-dark">
   
   <div class="main-page container-fluid">
-    
-    <div class="container d-flex justify-content-center align-items-center p-5">
-      <h1 class="text-white">NovelDownloader</h1>
-    </div>
     
     <div class="container d-flex justify-content-between align-items-center nav-top">
       <a class="p-2" href="#">Home</a>
@@ -38,20 +24,8 @@
     
     <div class="container mt-5">
       
-      <div class="container d-flex d-flex justify-content-center align-items-center cover-page">
-        <img class="container-fluid p-0" src="covers/Amamiya_Kokoro.png" alt="Photo Cover" />
-        <button class="btn btn-warning text-dark rounded-5" id="homebtn">Go Home <i class="fa-solid fa-circle-chevron-right"></i></button>
-      </div>
-      
-      <div class="container">
-        
-        <p class="text-white pt-5"><span>For the last 2 years (2022), we made FNovels and remake it countless times to prevent server lost, but unfortunately dew to short funds, we decided to take down our service. <br><br>January 10, 2024, our service are back again with new name and server. FNovels now change into NovelDL. Where you can download official translated novels in Epub or Pdf file format for free.<br><br>NovelDL was an ad-free android application and support direct download for novels. It is made for user experience and it was currently still under maintenance<br><br><strong>Remember</strong> that we do not owned any files on our server and we do not sale files that provided.</span></p>
-        
-      </div>
-      
-      <div class="container d-flex d-flex justify-content-center align-items-center">
-        <button class="btn btn-dark rounded text-white p-3 border border-secondary mt-5"><i class="fa-solid fa-cart-shopping"></i> Purchase NovelDL</button>
-      </div>
+      <h2 class="text-light">New Updates</h2>
+      <div class="row" id="post-item"></div>
       
     </div>
     
@@ -94,7 +68,7 @@
   
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-  
+  <script src="script.js"></script>
   <script src="search.js"></script>
 </body>
 </html>

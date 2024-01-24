@@ -2,7 +2,7 @@
   {
     "id": 74697,
     "title": "Re:Zero Starting Life In Another World",
-    "cover": "covers/Re_Zero_Volume_23_Cover.png",
+    "cover": "https://noveldownloader.netlify.app/covers/Re_Zero_Volume_23_Cover.png",
     "status": "Releasing",
     "publisher": "Yen Press",
     "page": "page/rezero.json"
@@ -10,7 +10,7 @@
   {
     "id": 138744,
     "title": "Magical Revolution of Reincarnated Princess and the Genius Young Lady",
-    "cover": "covers/LNVol5JPN.png",
+    "cover": "https://noveldownloader.netlify.app/covers/LNVol5JPN.png",
     "status": "Releasing",
     "publisher": "Yen Press",
     "page": "page/Tensei_Oujo_to_Tensai_Reijou_no_Mahou_Kakumei.json"
@@ -18,7 +18,7 @@
   {
     "id": 88467,
     "title": "In Another World With My Smartphone",
-    "cover": "covers/IsesumaLNV28.jpg",
+    "cover": "https://noveldownloader.netlify.app/covers/IsesumaLNV28.jpg",
     "status": "Releasing",
     "publisher": "J-Novel Club",
     "page": "page/isekai-smartphone.json"
@@ -42,7 +42,7 @@
   {
     "id": 133352,
     "title":"Gimai Seikatsu",
-    "cover":"covers/Gimai_SeikatsuV9-00.jpg",
+    "cover":"https://noveldownloader.netlify.app/covers/Gimai_SeikatsuV9-00.jpg",
     "status":"Releasing",
     "publisher":"Yen Press",
     "page":"page/gimai-seikatsu.json"
@@ -50,7 +50,7 @@
   {
     "id": 104039,
     "title": "86: Eighty Six",
-    "cover": "covers/86_V12_Cover_EN.jpg",
+    "cover": "https://noveldownloader.netlify.app/covers/86_V12_Cover_EN.jpg",
     "status": "Releasing",
     "publisher": "Yen Press",
     "page": "page/eighty-six.json"
@@ -58,7 +58,7 @@
   {
     "id": 106755,
     "title": "Our Last Crusade To the Rise Of A New World",
-    "cover": "covers/Our Last Crusade or the Rise of a New World Volume 12.jpg",
+    "cover": "https://noveldownloader.netlify.app/covers/Our Last Crusade or the Rise of a New World Volume 12.jpg",
     "status": "Realising",
     "publisher": "Yen Press",
     "page": "page/Our-Last-Crusade-To-the-Rise-Of-A-New-World.json"
@@ -74,7 +74,7 @@
   {
     "id": 102330,
     "title": "Wandering Witch: The Journey of Elaina",
-    "cover": "covers/Majo_No_Tabitabi_Volume_12_EN.jpg  ",
+    "cover": "https://noveldownloader.netlify.app/covers/Majo_No_Tabitabi_Volume_12_EN.jpg  ",
     "status": "Realising",
     "publisher": "Yen Press",
     "page": "page/majo-no-tabitabi.json"
@@ -82,7 +82,7 @@
   {
     "id": 83019,
     "title": "Death March to the Parallel World Rhapsody",
-    "cover": "covers/DMv19-00_EN.png",
+    "cover": "https://noveldownloader.netlify.app/covers/DMv19-00_EN.png",
     "status": "Realising",
     "publisher": "Yen Press",
     "page": "page/deathmarch.json"
