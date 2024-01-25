@@ -1,5 +1,13 @@
 [
   {
+    "id": "128006",
+    "title": "I'm the Villainess, So I'm Taming the Final Boss",
+    "cover": "https://static.wikia.nocookie.net/im-the-villainess-so-im-taming-the-final-boss/images/4/4c/Light_Novel_Volume_7_Cover.jpg/revision/latest?cb=20230617082111",
+    "status": "Releasing",
+    "publisher": "Yen Press",
+    "page": "page/i-m-the-villainess-so-i-m-taming-the-final-boss.json"
+  },
+  {
     "id": 74697,
     "title": "Re:Zero Starting Life In Another World",
     "cover": "https://noveldownloader.netlify.app/covers/Re_Zero_Volume_23_Cover.png",
@@ -34,18 +42,18 @@
   {
     "id": 152588,
     "title": "Haibara's Teenage New Game+",
-    "cover":"https://noveldownloader.netlify.app/covers/haibara-s-teenage-new-game-volume-5.jpg",
-    "status":"Releasing",
-    "publisher":"J-Novel Club",
-    "page":"page/haibara-s-teenage-new-game.json"
+    "cover": "https://noveldownloader.netlify.app/covers/haibara-s-teenage-new-game-volume-5.jpg",
+    "status": "Releasing",
+    "publisher": "J-Novel Club",
+    "page": "page/haibara-s-teenage-new-game.json"
   },
   {
     "id": 133352,
-    "title":"Gimai Seikatsu",
-    "cover":"https://noveldownloader.netlify.app/covers/Gimai_SeikatsuV9-00.jpg",
-    "status":"Releasing",
-    "publisher":"Yen Press",
-    "page":"page/gimai-seikatsu.json"
+    "title": "Gimai Seikatsu",
+    "cover": "https://noveldownloader.netlify.app/covers/Gimai_SeikatsuV9-00.jpg",
+    "status": "Releasing",
+    "publisher": "Yen Press",
+    "page": "page/gimai-seikatsu.json"
   },
   {
     "id": 104039,
@@ -65,11 +73,11 @@
   },
   {
     "id": 132505,
-    "title":"7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
-    "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_N8L7QMAwURDTLU2_iE3WJovjrrEDKG48ZQ&usqp=CAU",
-    "status":"Realising",
-    "publisher":"Seven Seas",
-    "page":"page/7th-time-loop.json"
+    "title": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_N8L7QMAwURDTLU2_iE3WJovjrrEDKG48ZQ&usqp=CAU",
+    "status": "Realising",
+    "publisher": "Seven Seas",
+    "page": "page/7th-time-loop.json"
   },
   {
     "id": 102330,
