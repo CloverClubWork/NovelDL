@@ -2,7 +2,7 @@
   {
     "id": "114279",
     "title": "Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside",
-    "cover": "https://cdn.kobo.com/book-images/8ae82ba5-60ab-446b-aabf-1afa8b212d6e/1200/1200/False/banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-10-light-novel.jpg",
+    "image": "https://cdn.kobo.com/book-images/8ae82ba5-60ab-446b-aabf-1afa8b212d6e/1200/1200/False/banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside-vol-10-light-novel.jpg",
     "status": "Releasing",
     "publisher": "Yen Press",
     "page": "page//banished-from-the-hero-s-party-i-decided-to-live-a-quiet-life-in-the-countryside.json"
@@ -10,7 +10,7 @@
   {
     "id": "122975",
     "title": "Reign Of The Seven Spellblades",
-    "cover": "https://static.wikia.nocookie.net/reign-of-the-seven-spellblade/images/3/37/LN_Volume_10_JP.jpg/revision/latest?cb=20230212223634",
+    "image": "https://static.wikia.nocookie.net/reign-of-the-seven-spellblade/images/3/37/LN_Volume_10_JP.jpg/revision/latest?cb=20230212223634",
     "status": "Releasing",
     "publisher": "Yen Press",
     "page": "page/reign-of-the-seven-spellblade.json"
@@ -18,7 +18,7 @@
   {
     "id": "128006",
     "title": "I'm the Villainess, So I'm Taming the Final Boss",
-    "cover": "https://static.wikia.nocookie.net/im-the-villainess-so-im-taming-the-final-boss/images/4/4c/Light_Novel_Volume_7_Cover.jpg/revision/latest?cb=20230617082111",
+    "image": "https://static.wikia.nocookie.net/im-the-villainess-so-im-taming-the-final-boss/images/4/4c/Light_Novel_Volume_7_image.jpg/revision/latest?cb=20230617082111",
     "status": "Releasing",
     "publisher": "Yen Press",
     "page": "page/i-m-the-villainess-so-i-m-taming-the-final-boss.json"
@@ -26,7 +26,7 @@
   {
     "id": 74697,
     "title": "Re:Zero Starting Life In Another World",
-    "cover": "https://noveldownloader.netlify.app/covers/Re_Zero_Volume_23_Cover.png",
+    "image": "https://noveldownloader.netlify.app/images/Re_Zero_Volume_23_image.png",
     "status": "Releasing",
     "publisher": "Yen Press",
     "page": "page/rezero.json"
@@ -34,7 +34,7 @@
   {
     "id": 138744,
     "title": "Magical Revolution of Reincarnated Princess and the Genius Young Lady",
-    "cover": "https://noveldownloader.netlify.app/covers/LNVol5JPN.png",
+    "image": "https://noveldownloader.netlify.app/images/LNVol5JPN.png",
     "status": "Releasing",
     "publisher": "Yen Press",
     "page": "page/Tensei_Oujo_to_Tensai_Reijou_no_Mahou_Kakumei.json"
@@ -42,7 +42,7 @@
   {
     "id": 88467,
     "title": "In Another World With My Smartphone",
-    "cover": "https://noveldownloader.netlify.app/covers/IsesumaLNV28.jpg",
+    "image": "https://noveldownloader.netlify.app/images/IsesumaLNV28.jpg",
     "status": "Releasing",
     "publisher": "J-Novel Club",
     "page": "page/isekai-smartphone.json"
@@ -50,7 +50,7 @@
   {
     "id": 138202,
     "title": "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time",
-    "cover": "https://images.yenpress.com/imgs/9781975369460.jpg?w=408&h=612&type=books&s=a68c5d557020170442fbc285bab4be18",
+    "image": "https://images.yenpress.com/imgs/9781975369460.jpg?w=408&h=612&type=books&s=a68c5d557020170442fbc285bab4be18",
     "status": "Releasing",
     "publisher": "Yen Press",
     "page": "page/i-may-be-a-guild-receptionist-but-i-ll-solo-any-boss-to-clock-out-on-time.json"
@@ -58,7 +58,7 @@
   {
     "id": 152588,
     "title": "Haibara's Teenage New Game+",
-    "cover": "https://noveldownloader.netlify.app/covers/haibara-s-teenage-new-game-volume-5.jpg",
+    "image": "https://noveldownloader.netlify.app/images/haibara-s-teenage-new-game-volume-5.jpg",
     "status": "Releasing",
     "publisher": "J-Novel Club",
     "page": "page/haibara-s-teenage-new-game.json"
@@ -66,7 +66,7 @@
   {
     "id": 133352,
     "title": "Gimai Seikatsu",
-    "cover": "https://noveldownloader.netlify.app/covers/Gimai_SeikatsuV9-00.jpg",
+    "image": "https://noveldownloader.netlify.app/images/Gimai_SeikatsuV9-00.jpg",
     "status": "Releasing",
     "publisher": "Yen Press",
     "page": "page/gimai-seikatsu.json"
@@ -74,7 +74,7 @@
   {
     "id": 104039,
     "title": "86: Eighty Six",
-    "cover": "https://noveldownloader.netlify.app/covers/86_V12_Cover_EN.jpg",
+    "image": "https://noveldownloader.netlify.app/images/86_V12_image_EN.jpg",
     "status": "Releasing",
     "publisher": "Yen Press",
     "page": "page/eighty-six.json"
@@ -82,7 +82,7 @@
   {
     "id": 106755,
     "title": "Our Last Crusade To the Rise Of A New World",
-    "cover": "https://noveldownloader.netlify.app/covers/Our Last Crusade or the Rise of a New World Volume 12.jpg",
+    "image": "https://noveldownloader.netlify.app/images/Our Last Crusade or the Rise of a New World Volume 12.jpg",
     "status": "Realising",
     "publisher": "Yen Press",
     "page": "page/Our-Last-Crusade-To-the-Rise-Of-A-New-World.json"
@@ -90,7 +90,7 @@
   {
     "id": 132505,
     "title": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_N8L7QMAwURDTLU2_iE3WJovjrrEDKG48ZQ&usqp=CAU",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_N8L7QMAwURDTLU2_iE3WJovjrrEDKG48ZQ&usqp=CAU",
     "status": "Realising",
     "publisher": "Seven Seas",
     "page": "page/7th-time-loop.json"
@@ -98,7 +98,7 @@
   {
     "id": 102330,
     "title": "Wandering Witch: The Journey of Elaina",
-    "cover": "https://noveldownloader.netlify.app/covers/Majo_No_Tabitabi_Volume_12_EN.jpg  ",
+    "image": "https://noveldownloader.netlify.app/images/Majo_No_Tabitabi_Volume_12_EN.jpg  ",
     "status": "Realising",
     "publisher": "Yen Press",
     "page": "page/majo-no-tabitabi.json"
@@ -106,7 +106,7 @@
   {
     "id": 83019,
     "title": "Death March to the Parallel World Rhapsody",
-    "cover": "https://static.wikia.nocookie.net/deathmarch/images/6/61/DMv20-00.png/revision/latest?cb=20200704021545",
+    "image": "https://static.wikia.nocookie.net/deathmarch/images/6/61/DMv20-00.png/revision/latest?cb=20200704021545",
     "status": "Realising",
     "publisher": "Yen Press",
     "page": "page/deathmarch.json"
